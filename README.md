@@ -18,4 +18,4 @@ Abaixo estão as paginas desenvolvidas no powerBI.
 ![Captura de tela 2024-09-23 125848](https://github.com/user-attachments/assets/54c4c928-96fb-46ab-b913-2fd8ed7b6aa7)
 
 ## Detalhes por parâmetro
-![Captura de tela 2024-09-23 125831](https://github.com/user-attachments/assets/51fa598a-3d51-41a4-a6ba-3232f2e20bad)
+![image](https://github.com/user-attachments/assets/4dede1be-7443-4132-8eda-cdadd514a494)
